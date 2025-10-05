@@ -74,6 +74,19 @@ Stay tuned for more hidden forbidden knowledge—across many languages, not just
 
 ---
 
+## 🛠️ How to Clone and Play
+
+Want to explore the dark side yourself? Clone this repository and start experimenting:
+
+```bash
+git clone https://github.com/LooneyRichie/Forbidden-Codex.git
+cd Forbidden-Codex
+```
+
+All you need is Python (for now)—but more languages and rituals are coming. Tread carefully, and have fun breaking the rules.
+
+---
+
 ## License
 
 MIT License. © Paradigm Looney (Richie Looney)
