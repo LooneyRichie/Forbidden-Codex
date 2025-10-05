@@ -46,3 +46,36 @@ This codex is not just a collection of programming techniques—it's a **transmi
 - 🔴 **Forbidden**: Can cause serious harm, legal issues, or security breaches
 - ⚫ **Mythic**: Universe-altering, reality-bending techniques
 
+---
+
+## How This Series Works
+
+This is an **ongoing, living series**. Each lesson is uploaded as a separate script, with a focus on clarity, mythic presentation, and practical demonstration. Only the lessons present in this repository are available—there is no monolithic codex or all-language scroll. Check back for new scrolls as they are revealed.
+
+### Current Lesson
+
+- **lesson_01_forbidden_loops_video.py**  
+  *The Forbidden Loop – Mastering Infinity*: A mythic, narrated, video-ready lesson on the power and purpose of infinite loops, including a typing simulation for dramatic effect.
+
+### Coming Soon (Preview)
+
+Based on the lesson script headers, the next few scrolls may include:
+- **lesson_02_memory_corruption.py**  
+  *The Heap Reaper* (Memory Corruption): Rituals for bending and breaking memory—corrupting the unseen, summoning the RAM Phantom, and unleashing bit rot.  
+  **Most notorious in:** C, C++, Assembly
+- **lesson_03_race_conditions.py**  
+  *The Phantom Thread* (Race Conditions): Concurrency poltergeists, time splitters, and the art of orchestrating chaos between threads.  
+  **Most notorious in:** C, C++, Java, Go, Rust, Python (with threads/processes)
+- **lesson_04_buffer_overflow.py**  
+  *The Stack Smasher* (Buffer Overflow): Boundary breaking, overflow oracles, and the legendary exploits that changed the world.  
+  **Most notorious in:** C, C++, Assembly
+
+Stay tuned for more hidden forbidden knowledge—across many languages, not just one. This is not a one-trick pony show. We’re going to show the whole fucking world the dark side of programming, in every tongue that exists.
+
+---
+
+## License
+
+MIT License. © Paradigm Looney (Richie Looney)
+
+
