@@ -17,6 +17,9 @@
                      "What they warn you not to enter - the infinite spiral"
 
                             2-MINUTE TYPING SIMULATION VERSION
+Lesson Language: Python (but the concept is universal)
+
+This first lesson explores infinite loops using Python, but the forbidden spiral is a universal construct—possible in almost every programming language. The techniques and dangers shown here apply far beyond Python, into the heart of programming itself.
 """
 
 import time
